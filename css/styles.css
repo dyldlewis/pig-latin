@@ -1,0 +1,11 @@
+#output {
+  border: solid black 2px;
+  font-size: 15px;
+  font-family: monospace;
+  display: none;
+}
+
+.result {
+  text-align: center;
+  margin-top: 40px;
+}
